@@ -144,7 +144,7 @@ r/>
 </html>
 # OUTPUT:
 
-![model](severside.png)
+![model](serverside.png)
 # RESULT:
 
 The program is executed succesfully
