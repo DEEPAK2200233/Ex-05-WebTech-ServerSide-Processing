@@ -7,24 +7,11 @@ To design a website to perform mathematical calculations in server side.
 # DESIGN STEPS:
 
 ## Step 1:
-
-
-
+Create a website using html.
 ## Step 2:
-
-
-
+Create a code for frontend of calculation using HTML and CSS.
 ## Step 3:
-
-
-## Step 4:
-
-
-
-## Step 5:
-
-
-
+Then run the code.
 # PROGRAM:
 <html>
 
